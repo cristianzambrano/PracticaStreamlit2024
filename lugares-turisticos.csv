@@ -1,0 +1,125 @@
+Tipo;Nombre;Latitud;Longitud;Provincia;Ciudad
+1;Río Santa Bárbara;-2.9047956;-78.778787;Azuay;Gualaceo
+1;Represa de Paute;-2.586111;-78.558333;Azuay;Cuenca
+1;El Turi;-2.9223567;-79.0103607;Azuay;Cuenca
+1;Parque Nacional Cajas;-2.8487368;-79.2537609;Azuay;Cuenca
+1;Reserva faunística el Chimborazo;-1.51123;-78.8609122;Bolívar;Riobamba
+1;Santuario De La Virgen del Huayco;-1.6700716;-79.0607285;Bolívar;San Jose de Chimbo
+1;Volcan Carihuairazo;-1.4043069;-78.754549;Bolívar;Riobamba
+1;Complejo turístico Ingapirca;-2.548985;-78.8714679;Cañar;Cañar
+1;Lagunas de culebrillas;-2.4230556;-78.8597222;Cañar;Cañar
+1;Catedral de Azogues;-2.7381951;-78.8472003;Cañar;Azogues
+1;Cementerio de Tulcán;0.8200078;-77.7148041;Carchi;Tulcán
+1;Reserva Ecológica El Ángel;0.82152;-77.73217;Carchi;Tulcán
+1;Gruta De La Paz;0.5004223;-77.842803;Carchi;Montúfar
+1;Lagunas Verdes;0.8150608;-77.9357521;Carchi;Tulcán
+1;Reserva Awa;1.0935308;-78.4524591;Carchi;Tulcán
+1;Iglesia de Balbanera;-1.7234848;-78.7625863;Chimborazo;Colta
+1;Laguna Del Atillo;-2.196173;-78.5291706;Chimborazo;Guamote
+1;Laguna de Colta;-1.7375;-78.7558333;Chimborazo;Riobamba
+1;La Nariz Del Diablo;-2.2437094;-78.8779638;Chimborazo;Chimborazo
+1;Laguna de Azogoche;-2.2518863;-78.5916866;Chimborazo;Alausi
+1;Parque Nacional De Cotopaxi;-0.7007416;-78.4297187;Cotopaxi;Latacunga
+1;Laguna De Quilatoa;-0.8583134;-78.9033627;Cotopaxi;Latacunga
+1;Parque Nacional Ilinizas;-0.7022878;-79.0645056;Cotopaxi;Latacunga.
+1;Santuario De Cuicuno;-0.8035306;-78.6684971;Cotopaxi;Latacunga.
+1;Archipiélago de Jambelí;-3.36556;-80.1108;El Oro;Santa Rosa
+1;Balneario La Chocha;-3.3228304;-79.7215175;El Oro;Casacay
+1;Isla Santa Clara;-3.1713787;-80.4342251;El Oro;Puerto Bolivar
+1;Cerro Dos Arcos;-3.564167;-79.469444;El Oro;Zaruma
+1;Cantón Chilla;-3.4576431;-79.5772008;El Oro;Chilla
+1;Playa De Oro;0.865753;-78.801299;Esmeraldas;Esmeraldas
+1;Reserva Ecológica Cayambe Coca;-0.3253796;-78.1479586;Esmeraldas;Esmeraldas
+1;Reserva Ecológica Cotacachi Cayapas;0.583333;-78.683333;Esmeraldas;Cotachachi
+1;Lago De Muisne;0.6067;-80.0183;Esmeraldas;Muisne
+1;Playa Las Peñas;1.086367;-79.157314;Esmeraldas;Eloy Alfaro
+1;Isla Santa Cruz;-0.6393592;-90.3371889;Galápagos;Puerto Ayora
+1;Isla Isabela;-0.8292374;-91.135302;Galápagos;Puerto Villamil
+1;Isla Bartolomé;-0.2842964;-90.550602;Galápagos;Galápagos
+1;Isla Fernandina;-0.4123801;-91.4821482;Galápagos;Galápagos
+1;Isla San Cristóbal;-0.8674715;-89.436391;Galápagos;Puerto Baquerizo Moreno
+1;El Faro;-2.1810317;-79.8753664;Guayas;Guayaquil
+1;Parque Histórico De Guayaquil;-2.1451609;-79.8700969;Guayas;Guayaquil
+1;Malecón 2000;-2.1937369;-79.8797778;Guayas;Guayaquil
+1;Museo Histórico De Abdón Calderón;-2.2153454;-79.8872573;Guayas;Guayaquil
+1;Otavalo;0.2343005;-78.2610672;Imbabura;Otavalo
+1;Lago De San Pablo;0.2059669;-78.219132;Imbabura;Ibarra
+1;Yahuarcocha;0.3719409;-78.1005579;Imbabura;Ibarra
+1;Ibarra;0.3391763;-78.1222336;Imbabura;Ibarra
+1;Valle Del Chota;0.466667;-78.066667;Imbabura;Ibarra
+1;Basílica Del Cisne;-3.851045;-79.426496;Loja;Loja
+1;Parque Podocarpus;-4.283333;-79;Loja;Loja
+1;Vilcabamba;-4.2623285;-79.2253776;Loja;Vilcambaba
+1;Iglesia Catedral;-3.9964969;-79.2010967;Loja;Loja
+1;Plaza De La Independencia;-4.00156;-79.2013171;Loja;Loja
+1;Parque Recreacional Jipiro;-3.9720197;-79.2035207;Loja;Loja
+1;Zoo el Pantanal;-2.0036723;-79.9648543;Los Ríos;Babahoyo
+1;Puerto López;-1.5539322;-80.8045568;Manabí;Puerto Lopez
+1;Parque Nacional Machalilla;-1.5202275;-80.715857;Manabí;Puerto Machalilla
+1;Portoviejo;-1.054723;-80.4524903;Manabí;Portoviejo
+1;Ayampe;-1.679507;-80.803711;Manabí;Puerto López
+1;Playas Del Murciélago;-0.9399588;-80.7330658;Manabí;Manta
+1;Rio Morona;-4.733333;-77.066667;Morona Santiago;Morona
+1;Valle Del Rio Upano;-2.3916143;-78.2034128;Morona Santiago;Macas
+1;Cuevas Los Tayos;-1.933333;-77.792778;Morona Santiago;Limón Indanza
+1;Cuevas De Loras Y Golondrinas;2.1599722;-99.098889;Morona Santiago;Tiwintza
+1;Tena;-0.9962972;-77.8136035;Napo;Tena
+1;Parque Nacional Archidona;-0.9088177;-77.806994;Napo;Archidona
+1;Cascada San Rafael;-0.1019968;-77.5807714;Napo;Tena
+1;Puerto Misahuallí;-1.0348151;-77.6670608;Napo;Tena
+1;Cavernas Del Jumandy;-0.8753438;-77.7919361;Napo;Archidona
+1;Parque Nacional Yasuní;-1.1006555;-75.8069082;Orellana;Yasuni
+1;Rio Napo;-0.6701038;-75.6964405;Orellana;Puerto Francisco de Orellana
+1;Museo Cicame;-0.4411355;-76.618645;Orellana;Francisco de Orellana
+1;Parque Acuático Montero Puyo;-1.487986;-78.0047258;Pastaza;Puyo
+1;Dique De Mera;-1.4560321;-78.1052137;Pastaza;Mera
+1;Parque Real;-1.4950378;-77.9860187;Pastaza;Tarqui
+1;Centro Histórico De Quito;-0.2188216;-78.5135489;Pichinca;Quito
+1;Mital Del Mundo;-0.0027576;-78.4548493;Pichinca;Quito
+1;Parque Nacional Ilinizas;-0.7022878;-79.0645056;Pichinca;Machachi
+1;Museo Los Amantes De Sampa;-2.2335211;-80.8674806;Santa Elena;Santa Elena
+1;Salinas;-2.2233578;-80.9584665;Santa Elena;Salinas
+1;Montañita;-1.8268465;-80.7529731;Santa Elena;Salinas
+1;Puerto De Carnero;-2.273684;-80.9612205;Santa Elena;Salinas
+1;Acuario De Valdivia;-2.27368;-80.9612205;Santa Elena;Salinas
+1;Santo Domingo;-0.2389045;-79.1774268;Santo Domindo de los Stáchilas;Santo Domingo
+1;Parque Zacay;-0.2541717;-79.1688151;Santo Domindo de los Stáchilas;Santo Domingo
+1;Complejo Turistico Rio Cristal;-1.7787055;-79.2773867;Santo Domindo de los Stáchilas;Santo Domingo
+1;Bosque La Perla;-0.014502;-79.3866092;Santo Domindo de los Stáchilas;Santo Domingo
+1;Reserva Faunística Cuyabeno;-0.2713055;-75.7531906;Sucumbíos;Cuyabeno
+1;Rio Aguarico;-0.3715772;-76.3511371;Sucumbíos;Cuyabeno
+1;Laguna Grande;-0.0554326;-79.2607628;Sucumbíos;Cuyabeno
+1;Baños De Agua Santa;-1.3928344;-78.4268758;Tungurahua;Baños
+1;Parque La Familia En Ambato;-1.2438848;-78.6633375;Tungurahua;Ambato
+1;Casa De Montalvo En Ambato;-1.2437069;-79;Tungurahua;Ambato
+1;La Cordillera de los Llangantes;-1.1945173;-78.3613482;Tungurahua;Baños de Agua Santa
+1;El Cariguairazo;-1.4043015;-78.7567377;Tungurahua;Ambato
+1;Rio Bomboscaro;-4.0620941;-78.948623;Zamora Chimchipe;Zamora
+2;Universidad Católica De Santiago De Guayaquil;-0.21827353;-79.89967800;Guayas;Guayaquil
+2;Universidad Politécnica Salesiana - Ups;-0.28863856;-78.99100240;Azuay;Cuenca
+2;Universidad Central Del Ecuador;-0.20063190;-78.50408980;Pichincha;Quito
+2;Universidad Tecnológica Equinoccial;-0.18437940;-78.49554930;Pichincha;Quito
+2;Escuela Superior Politécnica De Chimborazo;-1.65793610;-78.67853640;Chimborazo;Chimborazo
+2;Escuela Superior Politécnica Del Litoral;-0.21481458;-79.96668260;Guayas;Guayaquil
+2;Universidad San Francisco De Quito;-0.19713470;-78.43618050;Pichincha;Quito
+2;Universidad Técnica Particular De Loja;-0.39869426;-79.20059060;Loja;Loja
+2;Pontificia Universidad Católica Del Ecuador;-0.20938060;-78.49377410;Pichincha;Quito
+2;Universidad De Cuenca;-0.29008206;-79.01244770;Azuay;Cuenca
+2;Universidad De Las Fuerzas Armadas - Espe. Sangolquí;-0.31453570;-78.44588580;Pichincha;Sangolquí
+2;Universidad Técnica De Ambato;-0.12690951;-78.62575390;Tungurahua;Ambato
+2;Escuela Politécnica Nacional;-0.21018670;-78.49088530;Pichincha;Quito
+2;Universidad Nacional De Loja;-0.40328326;-79.20401220;Loja;Loja
+2;Universidad Internacional Del Ecuador;-0.24489480;-78.47255510;Pichincha;Quito
+2;Universidad Del Azuay;-0.29189772;-79.00418280;Azuay;Cuenca
+2;Universidad Católica De Cuenca;-0.29010364;-79.00142960;Azuay;Cuenca
+2;Universidad Nacional De Chimborazo;-0.16527022;-78.64440940;Chimborazo;Chimborazo
+2;Universidad Técnica Estatal De Quevedo;-0.10126968;-79.47170370;Los Ríos;Quevedo
+2;Uees;-0.21325098;-79.86763350;Guayas;Guayaquil
+2;Universidad Politécnica Estatal Del Carchi;0.80482330;-77.73619680;Carchi;Carchi
+2;Universidad Internacional Sek Ecuador;-0.09320400;-78.48719180;Pichincha;Quito
+2;Universidad Agraria Del Ecuador;-0.21445230;-79.576410;Guayas;Milagro
+2;Yachay;0.40441860;-78.17747160;Imbabura;Ibarra
+2;Universidad Casa Grande;-0.21674280;-79.92015710;Guayas;Guayaquil
+2;Universidad Técnica De Manabí;-0.10441708;-80.45810580;Manabí;Manabí
+2;Universidad San Gregorio De Portoviejo;-0.10634949;-80.47308560;Manabí;Manabí
+2;Universidad Del Pacífico - Ecuador;-0.21829019;-79.94964720;Guayas;Guayaquil
