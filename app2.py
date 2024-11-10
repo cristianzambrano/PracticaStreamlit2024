@@ -37,11 +37,12 @@ if not df is None:
 		st.header("Matriz  de Correlación")
 		matrix_cor = df_plot.corr()
 		fig, ax = plt.subplots()
-		sns.heatmap(ax=ax,data=matrix_cor,annot=True, cmap='coolwarm')
+		sns.heatmap(ax=ax,data=matrix_cor,
+			annot=True, cmap='coolwarm')
 		st.pyplot(fig)
 
 	with col3:
-		st.header("Gráfico de Correlación")
+		st.header("Gráfico de Dispersión")
 		option_x = st.selectbox('Seleccione  Columna X', df_plot.columns)
 		option_y = st.selectbox('Seleccione Columna Y', df_plot.columns)
 		fig, ax = plt.subplots()
